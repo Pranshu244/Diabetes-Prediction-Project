@@ -30,7 +30,7 @@ This model is trained on 768 samples from diabetes dataset.
 8. Type 'y' and enter.
 9. You will get an URL in last cell output with a line 'your url is: __'.
 10. Click on that link.
-11. You will be redirected to an website.
+11. You will be redirected to a website.
 12. On that website add IPv4 address you copied earlier in 'Tunnel Password' box and submit it.
 13. Diabetes Prediction Website will be open.
 14. Upload 'model_d.pkl' in 'Drag and drop file here'.
