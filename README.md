@@ -1,5 +1,6 @@
 # Diabetes-Prediction-Project
 Diabetes Prediction model using Logistic Regression
+# This is just an AI prediction. Doctor consultation is always recommended. 
 This project predicts if a person can have diabetes based on his/her Age, Blood Pressure, Body Mass Index, Plasma Glucose Concentration, Insulin, Pregnancy, Triceps Skin Fold Thickness, Diabetes Pedigree Function. 
 This model uses Logictic Regression.
 This model is trained on 768 samples from diabetes dataset.
