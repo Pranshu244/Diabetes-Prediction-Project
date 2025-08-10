@@ -35,7 +35,7 @@ This model is trained on 768 samples from diabetes dataset.
 13. Diabetes Prediction Website will be open.
 14. Upload 'model_d.pkl' in 'Drag and drop file here'.
 15. Now write the asked data and clcick 'Predict' buttoon.
-16. You will get 'Predicted'.
+16. You will get the prediction.
     
 ## How to view code of Logistic Regression.
 1. Open 'Logistic Regression Model' folder.
